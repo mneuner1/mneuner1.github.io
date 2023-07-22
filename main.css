@@ -1,0 +1,56 @@
+.story-text{
+  font-family: "Times New Roman", Times, serif;
+  font-size: 14px;
+  padding: 0px 20px 0px;
+}
+
+.story-text-indent{
+  text-indent: 35px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 14px;
+  padding: 0px 20px 0px;
+}
+
+.main-title{
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+  background-color: #A3EAFF;
+}
+
+.headline {
+  font-family: "Arial Black", sans-serif;
+  font-weight: bold;
+  color: #000000;
+  font-size: 16px;
+  padding: 20px 0px 5px 0px;
+}
+
+h2{
+  font-family: "Times New Roman", Times, serif;
+  font-size: 16px;
+  text-decoration: underline;
+  padding: 20px;
+  padding-bottom: 5px;
+}
+
+.byline{
+  font-size: 14px;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center; 
+  padding:0px;
+  margin: 0px;
+}
+
+.graph-caption {
+  font-size: 10px;
+  font-family: arial, sans-serif;
+  font-weight: normal;
+  color: #828282;
+  padding: 20px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 5px;
+}
