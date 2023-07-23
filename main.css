@@ -1,6 +1,7 @@
 .story-text{
   font-family: "Times New Roman", Times, serif;
   font-size: 14px;
+  font-weight: normal
   padding: 0px 20px 0px;
 }
 
@@ -8,6 +9,7 @@
   text-indent: 35px;
   font-family: "Times New Roman", Times, serif;
   font-size: 14px;
+  font-weight: normal
   padding: 0px 20px 0px;
 }
 
