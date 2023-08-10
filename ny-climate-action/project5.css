@@ -47,92 +47,29 @@ body{
     text-align: center;
     }
 
+.article-container{
+    padding-left: 6%;
+    padding-right: 6%;
+}
+
 h1{
     font-family: 'Libre Baskerville', serif;
     font-size: 24px;
-    padding-left: 3%;
-    padding-right: 3%;
-    padding-top: 10px;
+    margin-bottom: -10px;
 }
 
 .article-heading{
     font-family: 'Libre Baskerville', serif;
     font-size: 16px;
     font-weight: bold;
-    margin-left: 3%;
-    margin-right: 3%;
 }
 
 h2{
     font-family: 'PT Serif', serif;
     font-size: 16px;
     font-weight: normal;
-    margin-left: 3%;
-    margin-right: 3%;
-}
-
-.h2-indent{
-    font-family: 'PT Serif', serif;
-    font-size: 16px;
-    font-weight: normal;
-    text-indent: 3%;
-    margin-right: 3%;
-}
-
-* {
-  box-sizing: border-box;
-}
-
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-
-[class*="col-"] {
-  float: left;
-  padding-right: 50px;
-}
-
-.col-1 {width: 8.33%;}
-.col-2 {width: 16.66%;}
-.col-3 {width: 60%;}
-.col-4 {width: 33.33%;}
-.col-5 {width: 41.66%;}
-.col-6 {width: 50%;}
-.col-7 {width: 58.33%;}
-.col-8 {width: 66.66%;}
-.col-9 {width: 40%;}
-.col-10 {width: 83.33%;}
-.col-11 {width: 91.66%;}
-.col-12 {width: 100%;}
-
-.column-text{
-    font-family: 'PT Serif', serif;
-    font-size: 16px;
-    font-weight: normal;
-    margin-left: 6%;
-    margin-right: 3%;
-    margin-top: 0px;
-}
-
-.column-text-indent{
-    font-family: 'PT Serif', serif;
-    font-size: 16px;
-    font-weight: normal;
-    margin-left: 6%;
-    margin-right: 3%;
-    text-indent: 6%;
-    margin-top: 0px;
-}
-
-.column-text-article-heading{
-    font-family: 'Libre Baskerville', serif;
-    font-size: 16px;
-    font-weight: bold;
-    margin-left: 6%;
-    margin-right: 5%;
-    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
 }
 
 .huge-quotation1{
@@ -141,7 +78,7 @@ h2{
     font-weight: bold;
     float: left;
     margin-top: -20px;
-    margin-left:10%;
+    margin-left:11.25%;
     margin-bottom: -10px;
     margin-right: 2px;
     line-height: 0.8;
@@ -167,9 +104,6 @@ h2{
     -o-transform: matrix(-1, 0, 0, 1, 0, 0);
 }
 
-.col-9{
-    display: table-cell;
-}
 
 .map1{
     padding: 0px;
@@ -177,11 +111,22 @@ h2{
     margin-right: 3%;
 }
 
+.map2{
+    padding: 0px;
+    text-align: center
+}
+
+.chart1{
+    margin-left: -3%;
+}
+
 h3{
     font-family: 'Lato', sans-serif;
-    font-size: 12px;
-    padding-left: 3%;
-    padding-right: 3%;
+    font-size: 18px;
+    font-weight: semi-bold;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: -10px;
 }
 
 h4{
@@ -191,24 +136,4 @@ h4{
    margin-right: 15%;
    margin-top: -20px;
    margin-bottom: -10px;
-}
-
-.pulled-quote-attribution{
-    font-family: 'PT Serif', serif;
-    font-size: 18px;
-    font-weight: normal;
-    font-style: italic;
-    margin-left: 15%;
-    margin-right: 15%;
-    margin-top: -10px;
-}
-
-.article-container{
-    padding-left: 3%;
-    padding-right: 3%;
-}
-
-.audioStyle{
-    background-color: #D9FFE2;
-    
 }
