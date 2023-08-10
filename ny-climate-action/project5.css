@@ -1,0 +1,139 @@
+body{
+    background-color: #D9FFE2;
+    margin: 0px;
+}
+
+.header{
+    text-align: center;
+    background-color: #98F3AD;
+    margin: 0px;
+    padding: 20px 10px;
+    color: black;
+    font-family: 'PT Serif', serif;
+}
+.header a{
+    padding: 20px 20px;
+    color: black;
+}
+
+.header a:hover {
+    background-color: #A7F9BA;
+    font-weight: bold;
+    color: black;
+    border-radius: 2px;
+}
+
+.site-name{
+    font-family: 'Staatliches', cursive;
+    font-color: black;
+    font-size: 36px;
+    text-align: center;
+    padding-top: 10px;
+    Padding-bottom: 10px;
+    margin: 0px;
+    background-color: #5DDE7A;
+    letter-spacing:1px;
+}
+
+.outline-site-name{
+    -moz-text-fill-color: #5DDE7A;
+    -webkit-text-fill-color: #5DDE7A;
+    -moz-text-stroke-color: black;
+    -webkit-text-stroke-color: black;
+    -moz-text-stroke-width: 1.5px;  
+    -webkit-text-stroke-width: 1.5px;
+    font-family: 'Staatliches', cursive;
+    font-size: 36px;
+    text-align: center;
+    }
+
+.article-container{
+    padding-left: 6%;
+    padding-right: 6%;
+}
+
+h1{
+    font-family: 'Libre Baskerville', serif;
+    font-size: 24px;
+    margin-bottom: -10px;
+}
+
+.article-heading{
+    font-family: 'Libre Baskerville', serif;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+h2{
+    font-family: 'PT Serif', serif;
+    font-size: 16px;
+    font-weight: normal;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.huge-quotation1{
+    font-family: 'Secular One', sans-serif;
+    font-size: 80px;
+    font-weight: bold;
+    float: left;
+    margin-top: -20px;
+    margin-left:11.25%;
+    margin-bottom: -10px;
+    margin-right: 2px;
+    line-height: 0.8;
+    display: block;
+    -moz-transform: matrix(-1, 0, 0, 1, 0, 0);
+    -webkit-transform: matrix(-1, 0, 0, 1, 0, 0);
+    -o-transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+.huge-quotation2{
+    font-family: 'Secular One', sans-serif;
+    font-size: 80px;
+    font-weight: bold;
+    float: left;
+    margin-top: -20px;
+    margin-left:12%;
+    margin-bottom: -10px;
+    margin-right: 2px;
+    line-height: 0.8;
+    display: block;
+    -moz-transform: matrix(-1, 0, 0, 1, 0, 0);
+    -webkit-transform: matrix(-1, 0, 0, 1, 0, 0);
+    -o-transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+
+.map1{
+    padding: 0px;
+    margin-left: 0px;
+    margin-right: 3%;
+}
+
+.map2{
+    padding: 0px;
+    text-align: center
+}
+
+.chart1{
+    margin-left: -3%;
+}
+
+h3{
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+    font-weight: normal;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: -10px;
+}
+
+h4{
+   font-family: 'DM Serif Display', serif;
+   font-size: 24px; 
+   margin-left: 15%;
+   margin-right: 15%;
+   margin-top: -20px;
+   margin-bottom: -10px;
+}
